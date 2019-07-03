@@ -1,0 +1,12 @@
+C:\Users\Satinder Panjeta\source\repos\AwesomeCalculator1\CalcMutantTestCase\obj\Debug\CalcMutantTestCase.csproj.CoreCompileInputs.cache
+C:\Users\Satinder Panjeta\source\repos\AwesomeCalculator1\CalcMutantTestCase\bin\Debug\CalcMutantTestCase.dll
+C:\Users\Satinder Panjeta\source\repos\AwesomeCalculator1\CalcMutantTestCase\bin\Debug\CalcMutantTestCase.pdb
+C:\Users\Satinder Panjeta\source\repos\AwesomeCalculator1\CalcMutantTestCase\bin\Debug\AwesomeCalculator1.exe
+C:\Users\Satinder Panjeta\source\repos\AwesomeCalculator1\CalcMutantTestCase\bin\Debug\nunit.framework.dll
+C:\Users\Satinder Panjeta\source\repos\AwesomeCalculator1\CalcMutantTestCase\bin\Debug\AwesomeCalculator1.pdb
+C:\Users\Satinder Panjeta\source\repos\AwesomeCalculator1\CalcMutantTestCase\bin\Debug\AwesomeCalculator1.exe.config
+C:\Users\Satinder Panjeta\source\repos\AwesomeCalculator1\CalcMutantTestCase\bin\Debug\nunit.framework.xml
+C:\Users\Satinder Panjeta\source\repos\AwesomeCalculator1\CalcMutantTestCase\obj\Debug\CalcMutantTestCase.csprojAssemblyReference.cache
+C:\Users\Satinder Panjeta\source\repos\AwesomeCalculator1\CalcMutantTestCase\obj\Debug\CalcMutantTestCase.csproj.CopyComplete
+C:\Users\Satinder Panjeta\source\repos\AwesomeCalculator1\CalcMutantTestCase\obj\Debug\CalcMutantTestCase.dll
+C:\Users\Satinder Panjeta\source\repos\AwesomeCalculator1\CalcMutantTestCase\obj\Debug\CalcMutantTestCase.pdb

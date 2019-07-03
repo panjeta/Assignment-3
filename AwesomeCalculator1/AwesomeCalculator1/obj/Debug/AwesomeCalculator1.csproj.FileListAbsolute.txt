@@ -1,0 +1,10 @@
+C:\Users\Satinder Panjeta\source\repos\AwesomeCalculator1\AwesomeCalculator1\obj\Debug\AwesomeCalculator1.csprojAssemblyReference.cache
+C:\Users\Satinder Panjeta\source\repos\AwesomeCalculator1\AwesomeCalculator1\obj\Debug\AwesomeCalculator1.csproj.CoreCompileInputs.cache
+C:\Users\Satinder Panjeta\source\repos\AwesomeCalculator1\AwesomeCalculator1\bin\Debug\AwesomeCalculator1.exe.config
+C:\Users\Satinder Panjeta\source\repos\AwesomeCalculator1\AwesomeCalculator1\bin\Debug\AwesomeCalculator1.exe
+C:\Users\Satinder Panjeta\source\repos\AwesomeCalculator1\AwesomeCalculator1\bin\Debug\AwesomeCalculator1.pdb
+C:\Users\Satinder Panjeta\source\repos\AwesomeCalculator1\AwesomeCalculator1\bin\Debug\nunit.framework.dll
+C:\Users\Satinder Panjeta\source\repos\AwesomeCalculator1\AwesomeCalculator1\bin\Debug\nunit.framework.xml
+C:\Users\Satinder Panjeta\source\repos\AwesomeCalculator1\AwesomeCalculator1\obj\Debug\AwesomeCalculator1.csproj.CopyComplete
+C:\Users\Satinder Panjeta\source\repos\AwesomeCalculator1\AwesomeCalculator1\obj\Debug\AwesomeCalculator1.exe
+C:\Users\Satinder Panjeta\source\repos\AwesomeCalculator1\AwesomeCalculator1\obj\Debug\AwesomeCalculator1.pdb
